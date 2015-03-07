@@ -1,0 +1,37 @@
+body {
+	background-color: #F5F5F5; /* white smoke */
+	font-family: Verdana;
+	color: #708090; /* slate grey */
+	text-align: center;
+}
+
+h1 {
+	font-family: Verdana;
+	text-transform: uppercase;
+	font-style: bold;
+	font-weight: bold;
+	color: #008B8B; /* dark cyan */
+	font-size: 30px;
+}
+
+h1 {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-color: #B0E0E6; /* powder blue */
+}
+
+a {
+	color: #5F9EA0; /* cadet blue */
+	text-decoration: none;
+}
+
+
+h2 {
+	font-family: Verdana;
+	font-style: bold;
+	font-weight: bold;
+	color: #708090; /* slate grey */
+	font-size: 20px;
+
